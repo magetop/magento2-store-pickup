@@ -1,4 +1,4 @@
-# Magento 2 Store Pickup by MageTop
+# Magento 2 Store Pickup by Magetop
 
 **Magento 2 Store Pickup Extension** by MageTop encompasses the functionalities of Store locator and Store finder because of which the customer can pick up the product from the nearest store with the help of Google maps instant direction feature.Also categorise multiple stores on the bases of City and country. you delivering it to their houses. This helps you provide an added feature which would cater to a lot of your customers.
 
